@@ -1,4 +1,4 @@
-# news-aggregator-course
+# Building a News Feed Aggregator in Django
 
 ## Tools
  - Python 3
