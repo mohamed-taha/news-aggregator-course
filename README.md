@@ -10,3 +10,11 @@
  
  ## What Will You Learn?
  How to build and deply a real-life Django Application
+ 
+ 
+ ## Prerequisites
+ Preferably you should be familiar with:
+ - Python
+ - Django
+ - Databases (PostgreSQL)
+ 
